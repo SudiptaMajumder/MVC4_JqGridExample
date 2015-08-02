@@ -87,5 +87,6 @@ D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\bin\ko\System.Spati
 D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\bin\ru\System.Spatial.resources.dll
 D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\bin\zh-Hans\System.Spatial.resources.dll
 D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\bin\zh-Hant\System.Spatial.resources.dll
+D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\obj\Debug\MVC_JqGrid.csprojResolveAssemblyReference.cache
 D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\obj\Debug\MVC_JqGrid.dll
 D:\.Net Project\GitHub\Jq Grid Example\MVC_JqGrid\MVC_JqGrid\obj\Debug\MVC_JqGrid.pdb
